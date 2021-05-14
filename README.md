@@ -11,3 +11,4 @@ The amount of enemies will increase after the player killed all of the enemies i
 
 Players have 3 lives. Enemies will move in a random speed and random direction.
 
+Game demo available here: [Java Gameplay Demo](https://youtu.be/1-DO5jvizD4)
