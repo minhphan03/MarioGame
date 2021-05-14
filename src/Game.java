@@ -10,17 +10,6 @@ import java.util.LinkedList;
 
 import javax.swing.JFrame;
 
-/*
- * C SCI 143 ()
- * Minh Vu Anh Phan 
- * Reagan Vu
- * Zirui Huang
- * 
- * 
- * In this game we will have a character moving around on a 2D surface and shoot enemies with his bullets.
- * The amount of enemies will increase after the player killed all of the enemies in a level
- */
-
 
 public class Game extends Canvas implements Runnable {
 	
